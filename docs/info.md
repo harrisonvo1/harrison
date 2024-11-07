@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Wokwi
+Wokwi design
 
 ## How to test
 
-Wokwi
+Switch buttons on and off
 
 ## External hardware
 
