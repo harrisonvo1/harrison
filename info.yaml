@@ -1,8 +1,8 @@
 # Tiny Tapeout project information (Wokwi project)
 project:
-  wokwi_id:     0       # Set this to the ID of your Wokwi project (the number from the project's URL)
-  title:        ""      # Project title
-  author:       ""      # Your name
+  wokwi_id:     413919777312727041 # Set this to the ID of your Wokwi project (the number from the project's URL)
+  title:        "Tahiti"      # Project title
+  author:       "Harrison"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  ""      # One line description of what your project does
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
@@ -15,23 +15,23 @@ project:
 # The pinout of your project. Leave unused pins blank. DO NOT delete or add any pins.
 pinout:
   # Inputs
-  ui[0]: ""
-  ui[1]: ""
-  ui[2]: ""
-  ui[3]: ""
-  ui[4]: ""
+  ui[0]: "NOTin0"
+  ui[1]: "ANDin1"
+  ui[2]: "ANDin2"
+  ui[3]: "NOT2in3"
+  ui[4]: "HALF ADDER in4"
   ui[5]: ""
   ui[6]: ""
-  ui[7]: ""
+  ui[7]: "HALF ADDER in7"
 
   # Outputs
-  uo[0]: ""
-  uo[1]: ""
+  uo[0]: "NOTout0"
+  uo[1]: "ANDout1"
   uo[2]: ""
-  uo[3]: ""
+  uo[3]: "NOT2out3"
   uo[4]: ""
-  uo[5]: ""
-  uo[6]: ""
+  uo[5]: "SUMout5"
+  uo[6]: "CARRYout6"
   uo[7]: ""
 
   # Bidirectional pins
